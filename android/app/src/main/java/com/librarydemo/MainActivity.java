@@ -1,5 +1,5 @@
 package com.librarydemo;
-
+import com.reactlibrary.RNCommunicateFunctionsLibraryPackage;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {
